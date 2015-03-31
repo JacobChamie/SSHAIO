@@ -1,3 +1,6 @@
+//VERSION = 0.0.1
+//Author: Jack Hohn
+
 #ifndef SSHAIO_h
 #define SSHAIO_h
 
