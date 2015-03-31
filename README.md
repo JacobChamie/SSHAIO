@@ -2,7 +2,7 @@
 Serial SHell Arduino Input/Output
 ---------------------------------
 
-!!Needs ethernet sheild, or an SD card module for Version 0.0.2 Onwards!!
+Needs ethernet sheild, or an SD card module for Version 0.0.2 Onwards
 
 
 This is a "shell" which can be used to do certain tasks on the Arduino microcontroller.
