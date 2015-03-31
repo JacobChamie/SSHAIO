@@ -12,9 +12,12 @@ This is in Alpha, may be very buggy.
 AFILE or Action file command Version 0.0.2 Onwards
 --------------------------------------------------
 
-  Load 8 Files onto SD card entitling them "FILE1.txt", "FILE2.txt", etc.   
+  Load 8 Files onto SD card entitling them "FILE1.txt", "FILE2.txt", etc. Until "FILE 8.txt"
+
   The "AFILE <NUMBER HERE>" command makes the specified file an "Action File".
+
   You can read from the files via the "CAT" command.
+  
   More "Action File" features coming soon
 
 #IMPORTANT: REQUIRED LIBARIES:
