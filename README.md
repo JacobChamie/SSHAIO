@@ -19,4 +19,5 @@ AFILE or Action file command Version 0.0.2 Onwards
 #IMPORTANT: REQUIRED LIBARIES:
 
   Arduino-MemoryFree: https://github.com/mpflaga/Arduino-MemoryFree
+  
   Arduino SD Library: http://arduino.cc/en/Reference/SD (Needed from Version 0.0.2 Onwards)
