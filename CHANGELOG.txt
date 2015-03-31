@@ -1,0 +1,8 @@
+CHANGELOG
+===============================================================================================================================
+V. 0.0.2
+  Added SD Card Support.
+  Added "CAT" command. Displays Files on SD card.
+  Added "Action Files". Using the AFILE command, Text Files can be viewed using the "CAT" command.
+  Deleted "PIN 13 HIGH", "PIN 13 LOW", "PIN 4 HIGH", and "PIN 4 LOW".
+  Due to memory restrictions, sections of code were not executing properly, therefore a few features (above) had to be removed. 
