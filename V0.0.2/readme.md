@@ -9,7 +9,7 @@ This is a "shell" which can be used to do certain tasks on the Arduino microcont
 For example: If you enter in the command: PIN 7 HIGH, pin 7 will turn on. PIN 7 LOW would turn it off.
 This is in Alpha, may be very buggy.
 
-AFILE or Action file command Version 0.0.2 Onwards
+AFILE or Action file command Version 0.0.2 Only
 --------------------------------------------------
 
   Load 8 Files onto SD card entitling them "FILE1.txt", "FILE2.txt", etc. Until "FILE 8.txt"
